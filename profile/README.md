@@ -4,3 +4,7 @@ It is the place where Capella users, as well as tool providers, can collaborate 
 
 ![](https://github.com/labs4capella/.github/raw/main/profile/root.png)
 
+## Let's Get In Touch!
+
+Ready to start your next project with us? Feel free to discuss about it on ![](https://forum.mbse-capella.org)
+
